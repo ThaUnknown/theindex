@@ -1,0 +1,95 @@
+{
+  "6127995b146468004f7eead4": {
+    "_id": "6127995b146468004f7eead4",
+    "urlId": "anime",
+    "name": "Anime",
+    "nsfw": false,
+    "description": "A style of Japanese film and television animation.",
+    "collections": [
+      "61279b18146468004f7eead9",
+      "61279af7146468004f7eead8",
+      "61279bcc146468004f7eeada",
+      "6127c3ef9f7f59004e5ab12a",
+      "61279c29146468004f7eeadb",
+      "61279c8a146468004f7eeadc",
+      "6166f8ece9503e005d9720cd",
+      "6166f8f8e9503e005d9720cf",
+      "61a09bcfee8f0000edd0f4be",
+      "61deb35153360400c50adc14"
+    ],
+    "order": null,
+    "createdAt": "Thu Aug 26 2021 13:38:35 GMT+0000 (Coordinated Universal Time)",
+    "lastModified": "Wed Jan 12 2022 10:54:16 GMT+0000 (Coordinated Universal Time)",
+    "img": "karenneko.gif"
+  },
+  "612855b1aa2f6e004d46d709": {
+    "_id": "612855b1aa2f6e004d46d709",
+    "urlId": "hentai",
+    "name": "Hentai",
+    "nsfw": true,
+    "description": "A genre of Japanese manga and anime characterized by sexualized characters and explicit images and plots.",
+    "collections": [
+      "614952dc1ebf2900603f4e4b",
+      "617e97d05fdf4a00674a762f",
+      "619cccdd287fc800ed3fa617",
+      "619ccda4287fc800ed3fa63b",
+      "619cce69287fc800ed3fa65c",
+      "61a2ce235780b000ecc7b766",
+      "6166f8ece9503e005d9720cd"
+    ],
+    "order": 3,
+    "createdAt": "Fri Aug 27 2021 03:02:09 GMT+0000 (Coordinated Universal Time)",
+    "lastModified": "Sat Apr 23 2022 21:51:04 GMT+0000 (Coordinated Universal Time)",
+    "img": "2Blove.png"
+  },
+  "61285535aa2f6e004d46d705": {
+    "_id": "61285535aa2f6e004d46d705",
+    "urlId": "manga",
+    "name": "Manga",
+    "nsfw": false,
+    "description": "A style of Japanese comic books and graphic novels.",
+    "collections": [
+      "6143fafad730ad005e2c28f7",
+      "61523ac22b6c69007055c292",
+      "61523b372b6c69007055c29a",
+      "6166f8f8e9503e005d9720cf",
+      "61523b1c2b6c69007055c295",
+      "6166f8ece9503e005d9720cd"
+    ],
+    "order": 1,
+    "createdAt": "Fri Aug 27 2021 03:00:05 GMT+0000 (Coordinated Universal Time)",
+    "lastModified": "Mon May 16 2022 16:19:32 GMT+0000 (Coordinated Universal Time)",
+    "img": "PopukoThink.png"
+  },
+  "61285543aa2f6e004d46d706": {
+    "_id": "61285543aa2f6e004d46d706",
+    "urlId": "novels",
+    "name": "Novels",
+    "nsfw": false,
+    "description": "Visual novels (games) and light novels (books).",
+    "collections": [
+      "61523c492b6c69007055c2ac",
+      "61523c842b6c69007055c2b5"
+    ],
+    "order": 2,
+    "createdAt": "Fri Aug 27 2021 03:00:19 GMT+0000 (Coordinated Universal Time)",
+    "lastModified": "Tue Aug 23 2022 05:57:44 GMT+0000 (Coordinated Universal Time)",
+    "img": "read_novel.png"
+  },
+  "613fab66f69b5500159c2491": {
+    "_id": "613fab66f69b5500159c2491",
+    "urlId": "vpns",
+    "name": "VPNs",
+    "nsfw": false,
+    "description": "A service that protects your privacy online by creating an encrypted tunnel and hiding your IP address.",
+    "collections": [
+      "6166fa3be9503e005d9720de",
+      "6166fa5ae9503e005d9720e4",
+      "6166fa23e9503e005d9720da"
+    ],
+    "order": 4,
+    "createdAt": "Mon Sep 13 2021 19:49:58 GMT+0000 (Coordinated Universal Time)",
+    "lastModified": "Tue Nov 16 2021 00:03:54 GMT+0000 (Coordinated Universal Time)",
+    "img": "PoliceArrest.png"
+  }
+}
