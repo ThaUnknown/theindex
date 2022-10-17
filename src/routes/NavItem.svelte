@@ -1,8 +1,9 @@
-<script>
+<script lang='ts'>
   import { page } from '$app/stores'
-  export let item
+  import type { Section } from '$lib/types'
+  export let item: Section
 </script>
 
-<li class='nav-item text-capitalize' class:active={$page.params.Item === item.name.toLowerCase()}>
-  <a href='/{item.name.toLowerCase()}' sdata-sveltekit-prefetch class='nav-link'>{item.name}</a>
+<li class='nav-item text-capitalize' class:active={$page.params.section === item.name.toLowerCase()}>
+  <a href='/{item.name.toLowerCase()}' class='nav-link'>{item.name}</a>
 </li>

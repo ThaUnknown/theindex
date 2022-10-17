@@ -3,7 +3,7 @@
   $: arr = Object.values($page.params)
 </script>
 <nav aria-label='Breadcrumb navigation example'>
-  <ul class='breadcrumb'>
+  <ul class='breadcrumb text-muted'>
     <li class='breadcrumb-item'>
       {#if arr.length}
         <a href='/'>Home</a>
@@ -12,11 +12,11 @@
       {/if}
     </li>
     {#each arr as item, i}
-      <li class='breadcrumb-item'>
+      <li class='breadcrumb-item text-capitalize'>
         {#if (arr.length - 1) !== i}
           <a href='/{item}'>{item}</a>
         {:else}
-          {item}
+          {item.replaceAll('-', ' ')}
         {/if}
       </li>
     {/each}

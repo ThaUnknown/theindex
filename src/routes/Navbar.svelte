@@ -1,6 +1,7 @@
-<script>
+<script lang='ts'>
+  import type { Sections } from '$lib/types'
+  export let sections: Sections
   import NavItem from './NavItem.svelte'
-  import sections from '$lib/sections.json'
 </script>
 
 <nav class='navbar'>
@@ -10,7 +11,7 @@
       The Index
     </a>
     <span class='navbar-text text-monospace'>Beta</span>
-    <ul class='navbar-nav'>
+    <ul class='navbar-nav ml-auto'>
       {#each Object.values(sections) as item}
         <NavItem {item} />
       {/each}

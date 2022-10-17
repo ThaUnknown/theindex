@@ -27,6 +27,9 @@ module.exports = {
     {
       files: ['*.svelte'],
       parser: 'svelte-eslint-parser',
+      parserOptions: {
+        parser: '@typescript-eslint/parser'
+      },
       rules: {
         'svelte/indent': ['error', { indent: 2, indentScript: true }],
         'no-self-assign': 0,
