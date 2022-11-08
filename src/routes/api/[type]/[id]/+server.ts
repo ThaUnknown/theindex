@@ -1,5 +1,5 @@
 import type { RequestHandler } from './$types'
-import { getCollection, getColumn, getItem, getSection } from '$lib/helpers/api.ts'
+import { getCollection, getColumn, getItem, getSection } from '$lib/server/helpers/api.ts'
 
 const dbmap = { sections: getSection, collections: getCollection, columns: getColumn, items: getItem }
 

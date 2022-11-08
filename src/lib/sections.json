@@ -1,5 +1,5 @@
 {
-  "6127995b146468004f7eead4": {
+  "anime": {
     "_id": "6127995b146468004f7eead4",
     "urlId": "anime",
     "name": "Anime",
@@ -22,7 +22,7 @@
     "lastModified": "Wed Jan 12 2022 10:54:16 GMT+0000 (Coordinated Universal Time)",
     "img": "karenneko.gif"
   },
-  "612855b1aa2f6e004d46d709": {
+  "hentai": {
     "_id": "612855b1aa2f6e004d46d709",
     "urlId": "hentai",
     "name": "Hentai",
@@ -42,7 +42,7 @@
     "lastModified": "Sat Apr 23 2022 21:51:04 GMT+0000 (Coordinated Universal Time)",
     "img": "2Blove.png"
   },
-  "61285535aa2f6e004d46d705": {
+  "manga": {
     "_id": "61285535aa2f6e004d46d705",
     "urlId": "manga",
     "name": "Manga",
@@ -61,7 +61,7 @@
     "lastModified": "Mon May 16 2022 16:19:32 GMT+0000 (Coordinated Universal Time)",
     "img": "PopukoThink.png"
   },
-  "61285543aa2f6e004d46d706": {
+  "novels": {
     "_id": "61285543aa2f6e004d46d706",
     "urlId": "novels",
     "name": "Novels",
@@ -76,7 +76,7 @@
     "lastModified": "Tue Aug 23 2022 05:57:44 GMT+0000 (Coordinated Universal Time)",
     "img": "read_novel.png"
   },
-  "613fab66f69b5500159c2491": {
+  "vpns": {
     "_id": "613fab66f69b5500159c2491",
     "urlId": "vpns",
     "name": "VPNs",

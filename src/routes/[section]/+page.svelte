@@ -1,14 +1,14 @@
 <script lang='ts'>
   import type { PageData } from './$types'
-  import type { Sections } from '$lib/types'
+  import type { Collections, Collection } from '$lib/types'
+  import CollectionGallery from '$lib/components/CollectionGallery.svelte'
 
   export let data: PageData
-  let sections: Sections
-  $: sections = data.data
+  let collections: Collections
+  $: collections = data.section.collections as any
+  function getCollections (collections: Collections): Collection[] {
+    return Object.values(collections)
+  }
 </script>
 
-<ul>
-  {#each Object.values(sections) as item}
-    <li><a href='{data.section}/{item.urlId}'>{item.name}</a></li>
-  {/each}
-</ul>
+<CollectionGallery section={data.section} collections={getCollections(collections)}/>

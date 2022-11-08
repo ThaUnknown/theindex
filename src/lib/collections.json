@@ -1,6 +1,6 @@
 {
   "anime": {
-    "61279b18146468004f7eead9": {
+    "english-streaming-sites": {
       "_id": "61279b18146468004f7eead9",
       "urlId": "english-streaming-sites",
       "name": "English Streaming Sites",
@@ -86,7 +86,7 @@
       "lastModified": "Fri Sep 16 2022 12:46:51 GMT+0000 (Coordinated Universal Time)",
       "img": "plsgimme.png"
     },
-    "61279af7146468004f7eead8": {
+    "foreign-streaming-sites": {
       "_id": "61279af7146468004f7eead8",
       "urlId": "foreign-streaming-sites",
       "name": "Foreign Streaming Sites",
@@ -155,7 +155,7 @@
       "lastModified": "Wed Jun 29 2022 00:59:32 GMT+0000 (Coordinated Universal Time)",
       "img": "woahh.png"
     },
-    "61279bcc146468004f7eeada": {
+    "self-hosted-streaming-sites": {
       "_id": "61279bcc146468004f7eeada",
       "urlId": "self-hosted-streaming-sites",
       "name": "English Self-Hosted Streaming Sites",
@@ -175,7 +175,7 @@
       "lastModified": "Sat Apr 23 2022 21:09:08 GMT+0000 (Coordinated Universal Time)",
       "img": "NezukoYay.gif"
     },
-    "6127c3ef9f7f59004e5ab12a": {
+    "ddl-communities": {
       "_id": "6127c3ef9f7f59004e5ab12a",
       "urlId": "ddl-communities",
       "name": "DDL Communities",
@@ -213,7 +213,7 @@
       "lastModified": "Fri Apr 15 2022 00:14:38 GMT+0000 (Coordinated Universal Time)",
       "img": "nom.gif"
     },
-    "61279c29146468004f7eeadb": {
+    "public-bittorrent-trackers": {
       "_id": "61279c29146468004f7eeadb",
       "urlId": "public-bittorrent-trackers",
       "name": "Public BitTorrent Trackers",
@@ -232,7 +232,7 @@
       "lastModified": "Thu Jun 09 2022 20:34:57 GMT+0000 (Coordinated Universal Time)",
       "img": "nyankyaaaa.gif"
     },
-    "61279c8a146468004f7eeadc": {
+    "private-bittorrent-trackers": {
       "_id": "61279c8a146468004f7eeadc",
       "urlId": "private-bittorrent-trackers",
       "name": "Private BitTorrent Trackers",
@@ -251,7 +251,7 @@
       "lastModified": "Tue Jun 07 2022 06:00:27 GMT+0000 (Coordinated Universal Time)",
       "img": "RainMoneyDance.gif"
     },
-    "6166f8ece9503e005d9720cd": {
+    "anime-android": {
       "_id": "6166f8ece9503e005d9720cd",
       "urlId": "anime-android",
       "name": "Android Applications",
@@ -279,7 +279,7 @@
       "createdAt": "Wed Oct 13 2021 15:19:08 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Thu Jul 14 2022 06:27:28 GMT+0000 (Coordinated Universal Time)"
     },
-    "6166f8f8e9503e005d9720cf": {
+    "ios-apps": {
       "_id": "6166f8f8e9503e005d9720cf",
       "urlId": "ios-apps",
       "name": "iOS Applications",
@@ -297,7 +297,7 @@
       "createdAt": "Wed Oct 13 2021 15:19:20 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Mon May 16 2022 16:27:59 GMT+0000 (Coordinated Universal Time)"
     },
-    "61a09bcfee8f0000edd0f4be": {
+    "windows-apps": {
       "_id": "61a09bcfee8f0000edd0f4be",
       "urlId": "windows-apps",
       "name": "Windows Applications",
@@ -327,7 +327,7 @@
       "createdAt": "Fri Nov 26 2021 08:33:19 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Fri Apr 01 2022 13:51:13 GMT+0000 (Coordinated Universal Time)"
     },
-    "61deb35153360400c50adc14": {
+    "linux-apps": {
       "_id": "61deb35153360400c50adc14",
       "urlId": "linux-apps",
       "name": "Linux Applications",
@@ -350,7 +350,7 @@
     }
   },
   "hentai": {
-    "614952dc1ebf2900603f4e4b": {
+    "hentai-streaming": {
       "_id": "614952dc1ebf2900603f4e4b",
       "urlId": "hentai-streaming",
       "name": "Hentai Streaming Sites",
@@ -410,7 +410,7 @@
       "createdAt": "Tue Sep 21 2021 03:34:52 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Sun Sep 18 2022 12:56:54 GMT+0000 (Coordinated Universal Time)"
     },
-    "617e97d05fdf4a00674a762f": {
+    "image-boards": {
       "_id": "617e97d05fdf4a00674a762f",
       "urlId": "image-boards",
       "name": "Image Boards",
@@ -434,7 +434,7 @@
       "createdAt": "Sun Oct 31 2021 13:19:12 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Sat Nov 27 2021 14:11:23 GMT+0000 (Coordinated Universal Time)"
     },
-    "619cccdd287fc800ed3fa617": {
+    "doujinshi-aggregators": {
       "_id": "619cccdd287fc800ed3fa617",
       "urlId": "doujinshi-aggregators",
       "name": "Doujinshi Aggregators",
@@ -465,7 +465,7 @@
       "createdAt": "Tue Nov 23 2021 11:13:33 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Thu May 19 2022 16:50:13 GMT+0000 (Coordinated Universal Time)"
     },
-    "619ccda4287fc800ed3fa63b": {
+    "hentai-bittorrent-trackers": {
       "_id": "619ccda4287fc800ed3fa63b",
       "urlId": "hentai-bittorrent-trackers",
       "name": "Hentai BitTorrent Trackers",
@@ -483,7 +483,7 @@
       "createdAt": "Tue Nov 23 2021 11:16:52 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Wed Jun 08 2022 15:31:01 GMT+0000 (Coordinated Universal Time)"
     },
-    "619cce69287fc800ed3fa65c": {
+    "self-hosted-hentai-streaming-sites": {
       "_id": "619cce69287fc800ed3fa65c",
       "urlId": "self-hosted-hentai-streaming-sites",
       "name": "Self-Hosted Hentai Streaming Sites",
@@ -500,7 +500,7 @@
       "createdAt": "Tue Nov 23 2021 11:20:09 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Mon Mar 14 2022 01:50:50 GMT+0000 (Coordinated Universal Time)"
     },
-    "61a2ce235780b000ecc7b766": {
+    "hentai-apps": {
       "_id": "61a2ce235780b000ecc7b766",
       "urlId": "hentai-apps",
       "name": "Hentai Apps",
@@ -521,7 +521,7 @@
       "createdAt": "Sun Nov 28 2021 00:32:35 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Sat Apr 23 2022 22:06:15 GMT+0000 (Coordinated Universal Time)"
     },
-    "6166f8ece9503e005d9720cd": {
+    "anime-android": {
       "_id": "6166f8ece9503e005d9720cd",
       "urlId": "anime-android",
       "name": "Android Applications",
@@ -551,7 +551,7 @@
     }
   },
   "manga": {
-    "6143fafad730ad005e2c28f7": {
+    "aggregators": {
       "_id": "6143fafad730ad005e2c28f7",
       "urlId": "aggregators",
       "name": "Aggregators",
@@ -613,7 +613,7 @@
       "createdAt": "Fri Sep 17 2021 02:18:34 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Thu Feb 10 2022 16:00:38 GMT+0000 (Coordinated Universal Time)"
     },
-    "61523ac22b6c69007055c292": {
+    "non-english-aggregator": {
       "_id": "61523ac22b6c69007055c292",
       "urlId": "non-english-aggregators",
       "name": "Non-English Aggregators",
@@ -646,7 +646,7 @@
       "createdAt": "Mon Sep 27 2021 21:42:26 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Thu Jun 30 2022 09:24:07 GMT+0000 (Coordinated Universal Time)"
     },
-    "61523b372b6c69007055c29a": {
+    "non-english-scans": {
       "_id": "61523b372b6c69007055c29a",
       "urlId": "non-english-scans",
       "name": "Non-English Scans",
@@ -665,7 +665,7 @@
       "createdAt": "Mon Sep 27 2021 21:44:23 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Sat Jul 30 2022 07:31:30 GMT+0000 (Coordinated Universal Time)"
     },
-    "6166f8f8e9503e005d9720cf": {
+    "ios-apps": {
       "_id": "6166f8f8e9503e005d9720cf",
       "urlId": "ios-apps",
       "name": "iOS Applications",
@@ -683,7 +683,7 @@
       "createdAt": "Wed Oct 13 2021 15:19:20 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Mon May 16 2022 16:27:59 GMT+0000 (Coordinated Universal Time)"
     },
-    "61523b1c2b6c69007055c295": {
+    "scans": {
       "_id": "61523b1c2b6c69007055c295",
       "urlId": "scans",
       "name": "Scans",
@@ -724,7 +724,7 @@
       "createdAt": "Mon Sep 27 2021 21:43:56 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Sat Jul 30 2022 07:31:30 GMT+0000 (Coordinated Universal Time)"
     },
-    "6166f8ece9503e005d9720cd": {
+    "anime-android": {
       "_id": "6166f8ece9503e005d9720cd",
       "urlId": "anime-android",
       "name": "Android Applications",
@@ -754,7 +754,7 @@
     }
   },
   "novels": {
-    "61523c492b6c69007055c2ac": {
+    "light-novels": {
       "_id": "61523c492b6c69007055c2ac",
       "urlId": "light-novels",
       "name": "Light Novels",
@@ -820,7 +820,7 @@
       "createdAt": "Mon Sep 27 2021 21:48:57 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Fri Jul 01 2022 20:37:09 GMT+0000 (Coordinated Universal Time)"
     },
-    "61523c842b6c69007055c2b5": {
+    "visual-novels": {
       "_id": "61523c842b6c69007055c2b5",
       "urlId": "visual-novels",
       "name": "Visual Novels",
@@ -841,7 +841,7 @@
     }
   },
   "vpns": {
-    "6166fa3be9503e005d9720de": {
+    "p2p-friendly-vpns": {
       "_id": "6166fa3be9503e005d9720de",
       "urlId": "p2p-friendly-vpns",
       "name": "P2P Friendly VPNs",
@@ -856,7 +856,7 @@
       "createdAt": "Wed Oct 13 2021 15:24:43 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Tue Nov 16 2021 22:15:38 GMT+0000 (Coordinated Universal Time)"
     },
-    "6166fa5ae9503e005d9720e4": {
+    "no-logs-vpns": {
       "_id": "6166fa5ae9503e005d9720e4",
       "urlId": "no-logs-vpns",
       "name": "\"No Logs\" VPNs",
@@ -874,7 +874,7 @@
       "createdAt": "Wed Oct 13 2021 15:25:14 GMT+0000 (Coordinated Universal Time)",
       "lastModified": "Tue Nov 16 2021 22:15:32 GMT+0000 (Coordinated Universal Time)"
     },
-    "6166fa23e9503e005d9720da": {
+    "port-forwarding-vpns": {
       "_id": "6166fa23e9503e005d9720da",
       "urlId": "port-forwarding-vpns",
       "name": "Port Forwarding VPNs",
