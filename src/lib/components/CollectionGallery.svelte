@@ -6,7 +6,7 @@
 </script>
 <div class='gallery d-grid py-15'>
   {#each limit ? collections.slice(0, limit) : collections as collection}
-    <a href='{section.urlId}/{collection.urlId}' class='text-decoration-none'>
+    <a href='/{section.urlId}/{collection.urlId}' class='text-decoration-none'>
       <div class='card m-0 bg-dark-light border h-200 overflow-y-auto d-flex flex-column'>
         <div class='d-flex align-items-start justify-content-between w-full pb-5'>
           <div class='font-size-20 font-weight-bold mb-5'>
@@ -21,7 +21,7 @@
         </div>
         <div class='d-flex align-items-end justify-content-between w-full mt-auto pt-10'>
           <img src='/img/{collection.img}' class='w-30 h-30 rounded' alt='Section icon'>
-          <a class='text-blue' href='{section.urlId}/{collection.urlId}'>View Collection ></a>
+          <a class='text-blue' href='/{section.urlId}/{collection.urlId}'>View Collection ></a>
         </div>
       </div>
     </a>

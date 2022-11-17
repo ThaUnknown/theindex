@@ -46,6 +46,8 @@ export interface Item {
   _id: string,
   name: string,
   urls: string[],
+  image: string,
+  ping: boolean,
   nsfw: boolean,
   description: string,
   blacklist: boolean,

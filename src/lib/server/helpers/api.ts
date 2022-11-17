@@ -27,7 +27,7 @@ export async function getCollection (type: string): Promise<Collection> {
 }
 
 export async function getItems (ids: string[]): Promise<Items> {
-  return ids?.length ? filterKeys(items, ids) : items
+  return ids?.length ? filterKeys(items, ids) : []
 }
 
 export async function getItem (id: string): Promise<Item> {

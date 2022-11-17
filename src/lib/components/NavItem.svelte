@@ -1,7 +1,7 @@
 <script lang='ts'>
   import { page } from '$app/stores'
   import type { Section } from '$lib/types'
-  export let item: Section
+  export let item: Section | any
 </script>
 
 <li class='nav-item text-capitalize' class:active={$page.params.section === item.name.toLowerCase()}>

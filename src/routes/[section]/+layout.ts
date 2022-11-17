@@ -6,6 +6,7 @@ export const load: LayoutLoad = async ({ parent, params }): { section: Section }
   const section = _parent.sections[params.section]
   section.collections = _parent.collections[params.section]
   return {
+    title: section.name,
     section
   }
 }
