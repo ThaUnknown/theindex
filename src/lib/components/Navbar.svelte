@@ -1,7 +1,8 @@
 <script lang='ts'>
   import type { Sections } from '$lib/types'
-  export let sections: Sections
   import NavItem from './NavItem.svelte'
+  export let sections: Sections
+  export let auth: String | undefined
 </script>
 
 <nav class='navbar border-bottom'>
@@ -17,10 +18,10 @@
       </li>
       <div class='px-15'/>
       {#each Object.values(sections) as item}
-        <NavItem {item} />
+        <NavItem {item} title={null} />
       {/each}
       <div class='px-15'/>
-      <NavItem item={{ name: 'login' }}/>
+      <NavItem item={{ name: 'login' }} title={auth} />
     </ul>
   </div>
 </nav>

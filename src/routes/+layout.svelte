@@ -15,7 +15,7 @@
 <div class='page-wrapper with-navbar bg-dark'>
   <div class='sticky-alerts' />
 
-  <Navbar sections={data.sections} />
+  <Navbar sections={data.sections} auth={data.auth} />
   <div class='content-wrapper overflow-y-scroll'>
     <div class='container h-full'>
       <slot />

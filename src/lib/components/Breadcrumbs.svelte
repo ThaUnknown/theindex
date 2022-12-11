@@ -2,7 +2,7 @@
   import { page } from '$app/stores'
   $: arr = Object.values($page.params)
 </script>
-<nav aria-label='Breadcrumb navigation example'>
+<nav class='d-flex flex-column'>
   <ul class='breadcrumb text-muted'>
     <li class='breadcrumb-item'>
       <a href='/'>Home</a>
@@ -17,7 +17,7 @@
       </li>
     {/each}
   </ul>
-  <hr>
+  <hr class='w-full'>
 </nav>
 
 <style>
