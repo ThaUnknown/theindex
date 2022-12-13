@@ -11,7 +11,15 @@
   function hide (this: HTMLImageElement) {
     this.style.display = 'none'
   }
+
+  function filter ({ target }) {
+    console.log(target)
+    const { value } = target
+    items = Object.values(data.items).filter((i) => i?.name.includes(value))
+  }
 </script>
+
+<input type='search' class='form-control' placeholder='Search' on:change={filter}>
 
 {#each sponsors as sponsor}
   <div class='featured h-400 d-flex d-md-grid position-relative sponsor p-20'>

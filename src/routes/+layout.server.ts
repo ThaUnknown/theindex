@@ -16,3 +16,5 @@ export const load: LayoutServerLoad = async ({ request, getClientAddress, cookie
     auth: cookies.get('auth') || null
   }
 }
+
+export const trailingSlash = 'always'
